@@ -2,19 +2,19 @@
 title: "Statistical Consultation"
 ---
 
-**Office hour:**
+###Office hour:
 
 For Spring 2019, my office hour is **9:00-13:00 on Friday, at 2420 Lloyd** Veterinary Medical Center.
 
-**Appointment:**
+###Appointment:
 
 To avoid time conflicts with other clients, appointment is needed and can be made by sending an email to [minz@iastate.edu](minz@iastate.edu)
 
-**Clients:**
+###Clients:
 
 Faculties, graduate students, researchers at [College of Veterinary Medicine](https://vetmed.iastate.edu/), ISU. 
 
-**How I can help:**
+###How I can help:
 
 Provide consultation to faculties and students in Veterinary Medicine about research design, sample size calculation, and statistical methods selection.
 
