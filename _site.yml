@@ -1,0 +1,29 @@
+name: "Min (Miranda) Zhang"
+output_dir: "."
+navbar:
+  title: "Min (Miranda) Zhang"
+  href: index.html
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: CV.html
+    - text: "Publications(ToCome)"
+      href: Publications.html
+    - text: "Talks(ToCome)"
+      href: Talks.html
+    - text: "Consultation(ToCome)"
+      href: Consultation.html
+    - text: "Photos(ToCome)"
+      href: Photos.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/MinZhang95
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/min-zhang-965817138/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
