@@ -12,8 +12,6 @@ navbar:
       href: Research.html  
     - text: "Consultation"
       href: Consultation.html
-    - text: "Photos(ToCome)"
-      href: Photos.html
     - text: "Contact"
       href: Contact.html
   right:
