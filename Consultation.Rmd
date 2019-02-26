@@ -4,7 +4,7 @@ title: "Statistical Consultation"
 
 **Office hour:**
 
-For Spring 2019, my office hour is 9:00-13:00 on Friday, at 2420 Lloyd Veterinary Medical Center.
+For Spring 2019, my office hour is **9:00-13:00 on Friday, at 2420 Lloyd** Veterinary Medical Center.
 
 **Appointment:**
 
@@ -21,6 +21,4 @@ Provide consultation to faculties and students in Veterinary Medicine about rese
 Analyze data from experiments and clinical trials with R/SAS.
 
 Help with results interpretation, and statistical sections for publications and conferences.
-
-Problems involve but not limited to application of Generalized Linear Models, Nonparametric Analysis, and Data Visualization, etc.
 

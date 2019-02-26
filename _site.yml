@@ -8,17 +8,15 @@ navbar:
       href: index.html
     - text: "CV"
       href: CV.html
-    - text: "Publications(ToCome)"
-      href: Publications.html
-    - text: "Talks(ToCome)"
-      href: Talks.html
+    - text: "Research"
+      href: Research.html  
     - text: "Consultation"
       href: Consultation.html
     - text: "Photos(ToCome)"
       href: Photos.html
+    - text: "Contact"
+      href: Contact.html
   right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
     - icon: fa-github fa-lg
       href: https://github.com/MinZhang95
     - icon: fa-linkedin fa-lg
