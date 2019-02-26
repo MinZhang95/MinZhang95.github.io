@@ -1,0 +1,25 @@
+---
+title: "Statistical Consultation"
+---
+
+**Clients:**
+
+Faculties, graduate students, researchers at [College of Veterinary Medicine](https://vetmed.iastate.edu/), ISU. 
+
+**How I can help:**
+
+Provide consultation to faculties and students in Veterinary Medicine about research design, sample size calculation, and statistical methods selection.
+
+Analyze data from experiments and clinical trials with R/SAS.
+
+Help with results interpretation, and statistical sections for publications and conferences.
+
+Problems involve but not limited to application of Generalized Linear Models, Nonparametric Analysis, and Data Visualization, etc.
+
+**Office hour:**
+
+For Spring 2019, my office hour is 9:00-13:00 on Friday, at 2420 Lloyd Veterinary Medical Center.
+
+**Appointment:**
+
+To avoid time conflicts with other clients, appointment is needed and can be made by sending email to [minz@iastate.edu](minz@iastate.edu)
