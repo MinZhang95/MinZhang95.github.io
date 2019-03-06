@@ -2,7 +2,6 @@ name: "Min Zhang"
 output_dir: "."
 navbar:
   title: "Min Zhang"
-  href: index.html
   left:
     - text: "Home"
       href: index.html
