@@ -1,0 +1,6 @@
+---
+title: "Image"
+---
+
+<figure>
+  <p><img src="images/plane.JPG">
