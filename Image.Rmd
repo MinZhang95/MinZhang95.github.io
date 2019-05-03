@@ -3,5 +3,5 @@ title: "Image"
 ---
 
 <figure>
-  <p><img src="images/plane.PNG" style="width:50%; margin-right: 20px" align="top">
+  <p><img src="images/flightscanner.jpg" style="width:50%; margin-right: 20px" align="top">
 </figure>
