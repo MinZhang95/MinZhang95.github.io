@@ -2,15 +2,15 @@
 title: "Statistical Consultation"
 ---
 
-###Office hour
+### Office hour
 
 For Fall 2019, my office hour is **10:00-12:00 Tue & 14:00-16:00 Fri, Room 3 at VMRI Bd1, ISU**.
 
-###Clients
+### Clients
 
 Researchers at [Dr. Jeff Zimmerman](https://vetmed.iastate.edu/users/jjzimm)'s lab.
 
-###How I can help
+### How I can help
 
 Provide consultation to faculties and students about research design, sample size calculation, and statistical methods selection.
 

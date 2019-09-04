@@ -2,13 +2,13 @@
 title: "Contact"
 ---
 
-###Email
+### Email
 
 [minz@iastate.edu](minz@iastate.edu)
 
 [mzhang9510@gmail.com]([mzhang9510@gmail.com])
 
-###Office
+### Office
 
 3414 Snedecor Hall, 2438 Osborn Drive, Ames, IA, 50011-1090.
 
