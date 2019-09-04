@@ -13,8 +13,6 @@ navbar:
       href: Consultation.html
     - text: "Contact"
       href: Contact.html
-    - text: "Image"
-      href: Image.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/MinZhang95
